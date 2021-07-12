@@ -1,0 +1,35 @@
+body{
+    background-color: cadetblue;
+}
+
+header{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-style: double;
+    border-width: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+#cita{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+li{
+    margin-bottom: 1%;
+}
+
+footer{
+    margin-top: 50px;
+}
